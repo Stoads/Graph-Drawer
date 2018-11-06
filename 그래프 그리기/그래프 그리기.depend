@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1482745591 source:c:\users\양정모\desktop\과제\플밍\그래프 그리기\main.cpp
+	<stdio.h>
+	<tchar.h>
+	<windows.h>
+	<string.h>
+	<malloc.h>
+	<math.h>
+	<ctype.h>
+	"calculater.h"
+
+1482743614 source:c:\users\양정모\desktop\과제\플밍\그래프 그리기\calculater.cpp
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<ctype.h>
+	"calculater.h"
+
+1482743609 c:\users\양정모\desktop\과제\플밍\그래프 그리기\calculater.h
+
+1482743614 source:c:\users\양정모\desktop\c & c++\플밍\그래프 그리기\calculater.cpp
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<ctype.h>
+	"calculater.h"
+
+1482743608 c:\users\양정모\desktop\c & c++\플밍\그래프 그리기\calculater.h
+
